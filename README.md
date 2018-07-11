@@ -2,6 +2,7 @@
 Virtual classroom
 
 This is a virtual classroom web application which provides communication and resource sharing between students and teachers.
+
 Technology used:
 
 Frontend: bootstrap3,html,css,jquery,javascript
